@@ -1,0 +1,27 @@
+{
+  "experiment_name": "grid_lr0.001_decay2500",
+  "timestamp": "20260524_125413",
+  "episode_durations": [
+    25
+  ],
+  "hyperparameters": {
+    "batch_size": 128,
+    "gamma": 0.99,
+    "eps_start": 0.9,
+    "eps_end": 0.01,
+    "eps_decay": 2500,
+    "tau": 0.005,
+    "lr": 0.001,
+    "plot_live": false,
+    "seed": 42,
+    "num_episodes": 1,
+    "hidden_size": 128,
+    "memory_size": 10000
+  },
+  "stats": {
+    "max_duration": 25,
+    "last_100_mean": 25.0,
+    "episodes_to_475": null,
+    "total_episodes": 1
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "n_observations": 4,
+  "n_actions": 2,
+  "hidden_size": 128
+}
